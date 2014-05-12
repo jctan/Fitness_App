@@ -1,4 +1,4 @@
-Fitness_App
+Fitness App (Java Swing)
 ===========
 
 Built in Java with MVC pattern and Java Swing GUI
